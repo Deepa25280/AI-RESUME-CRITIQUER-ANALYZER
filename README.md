@@ -1,6 +1,9 @@
 # 🤖 AI Resume Analyzer
 
 An AI-powered Resume Analyzer built using **Streamlit** and **Groq LLM**. It analyzes resumes, identifies strengths and weaknesses, and provides actionable suggestions for improvement.
+## Live Demo : 
+
+🌐 https://ai-resume-critiquer-analyzer-fytxkg3gzueffabjut5sbf.streamlit.app/
 
 ---
 
@@ -19,12 +22,12 @@ An AI-powered Resume Analyzer built using **Streamlit** and **Groq LLM**. It ana
 
 ## ⚙️ How It Works
 
-1️⃣ Upload your resume 
-2️⃣ Extract resume content
-3️⃣ Send data to the AI model
-4️⃣ Perform AI-powered analysis
-5️⃣ Generate personalized feedback
-6️⃣ Display detailed results
+* 1️⃣ Upload your resume 
+* 2️⃣ Extract resume content
+* 3️⃣ Send data to the AI model
+* 4️⃣ Perform AI-powered analysis
+* 5️⃣ Generate personalized feedback
+* 6️⃣ Display detailed results
 
 ---
 
